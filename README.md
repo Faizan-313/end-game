@@ -7,9 +7,6 @@ Can you beat the game before it reaches the end?
 - **Interactive Gameplay**: Guess the word one letter at a time and test your skills.
 - **Engaging Visuals**: Watch the programming languages disappear with a last message for that language on every incorrect guesses.
 
-## Demo
-Check out the live demo of the application [here](https://end-game-green.vercel.app/).
-
 ## Installation
 To run this project locally, follow these steps:
 
